@@ -1,0 +1,16 @@
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.exe
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.deps.json
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.runtimeconfig.json
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.runtimeconfig.dev.json
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.dll
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\ref\siberguvenlik_vize.dll
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\bin\Debug\net5.0\siberguvenlik_vize.pdb
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.AssemblyInfoInputs.cache
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.AssemblyInfo.cs
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.dll
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\ref\siberguvenlik_vize.dll
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.pdb
+C:\Users\Samet\source\repos\siberguvenlik_vize\siberguvenlik_vize\obj\Debug\net5.0\siberguvenlik_vize.genruntimeconfig.cache
